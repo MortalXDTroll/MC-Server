@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7d0f502c54223712a1515d99db1feb5e"
+	name: "stef#7d0f502c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

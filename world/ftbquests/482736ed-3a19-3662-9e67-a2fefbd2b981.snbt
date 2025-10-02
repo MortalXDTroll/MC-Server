@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "482736ed3a1936629e67a2fefbd2b981"
+	name: "MortalXDTroll#482736ed"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,326 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_center",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_left",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_right",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_center",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_left",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_right",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_left",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_right",
+			"facing": "north"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_center",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_left",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_right",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_center",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_left",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_right",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_left",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_right",
+			"facing": "south"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_center",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_left",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_right",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_center",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_left",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_right",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_left",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_right",
+			"facing": "west"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "center",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_center",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_left",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "lower_right",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_center",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_left",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "upper_right",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_left",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle_right",
+			"facing": "east"
+		},
+		"Name": "create_radar:monitor"
+	}
+]

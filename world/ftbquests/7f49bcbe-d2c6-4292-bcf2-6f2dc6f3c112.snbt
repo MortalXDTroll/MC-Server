@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7f49bcbed2c64292bcf26f2dc6f3c112"
+	name: "Baietii_cu_pula_mare#7f49bcbe"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

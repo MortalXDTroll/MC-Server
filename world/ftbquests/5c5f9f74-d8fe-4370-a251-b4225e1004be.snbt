@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5c5f9f74d8fe4370a251b4225e1004be"
+	name: "Gainarii#5c5f9f74"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

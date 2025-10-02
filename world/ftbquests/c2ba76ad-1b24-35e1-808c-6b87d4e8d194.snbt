@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c2ba76ad1b2435e1808c6b87d4e8d194"
+	name: "stef05#c2ba76ad"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

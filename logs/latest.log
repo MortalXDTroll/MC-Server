@@ -1,0 +1,132 @@
+[30Sep2025 00:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[30Sep2025 00:00:00.006] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\.\world\.
+[30Sep2025 00:00:00.426] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 457.0MB Current world size: 558.9MB Current Available space: 118.5GB ExpectedSize 480.0MB
+[30Sep2025 00:00:00.426] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[30Sep2025 00:00:00.427] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury save state to true
+[30Sep2025 00:00:00.428] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon_orbit save state to true
+[30Sep2025 00:00:00.428] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio_orbit save state to true
+[30Sep2025 00:00:00.428] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus save state to true
+[30Sep2025 00:00:00.428] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[30Sep2025 00:00:00.428] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio save state to true
+[30Sep2025 00:00:00.428] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus_orbit save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury_orbit save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars_orbit save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:earth_orbit save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[30Sep2025 00:00:00.429] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[30Sep2025 00:00:00.432] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\backups\backups.json
+[30Sep2025 00:00:00.433] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[30Sep2025 00:00:01.007] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.20.1, Data version 3465
+[30Sep2025 00:00:01.007] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[30Sep2025 00:00:01.094] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\.\world\.\DIM1
+[30Sep2025 00:00:01.130] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:earth_orbit
+[30Sep2025 00:00:01.130] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:glacio
+[30Sep2025 00:00:01.130] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:glacio_orbit
+[30Sep2025 00:00:01.130] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mars
+[30Sep2025 00:00:01.131] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mars_orbit
+[30Sep2025 00:00:01.131] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mercury
+[30Sep2025 00:00:01.131] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mercury_orbit
+[30Sep2025 00:00:01.131] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:moon
+[30Sep2025 00:00:01.131] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:moon_orbit
+[30Sep2025 00:00:01.131] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:venus
+[30Sep2025 00:00:01.132] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:venus_orbit
+[30Sep2025 00:00:01.132] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[30Sep2025 00:00:01.133] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_faucet_test_level
+[30Sep2025 00:00:01.133] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_projectile_test_level
+[30Sep2025 00:00:04.774] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 1598ms, Capture took 2256ms
+[30Sep2025 00:00:22.998] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[30Sep2025 00:00:22.998] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon_orbit save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio_orbit save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus_orbit save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury_orbit save state to false
+[30Sep2025 00:00:22.999] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars_orbit save state to false
+[30Sep2025 00:00:23.000] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:earth_orbit save state to false
+[30Sep2025 00:00:23.000] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars save state to false
+[30Sep2025 00:00:23.000] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon save state to false
+[30Sep2025 00:00:23.000] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[30Sep2025 00:00:23.000] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[30Sep2025 00:00:24.656] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 457.2MB World Size 558.9MB
+[30Sep2025 00:00:24.659] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\backups\backups.json
+[30Sep2025 00:00:24.660] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\backups\2025-9-30_0-0-0.zip size: 457.2MB Took: 0m, 22s, 570ms Sha1: fba1a14fc280f312e382f0a642753c34b8e63fbf
+[30Sep2025 00:00:24.737] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 5 found, Removing oldest backup
+[30Sep2025 00:00:24.739] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-9-29_21-30-0.zip
+[30Sep2025 00:00:24.740] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\backups\2025-9-29_21-30-0.zip
+[30Sep2025 00:00:24.745] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file C:\Users\MortalXDTroll\Desktop\MC_Server - Copy (3)\backups\backups.json
+[30Sep2025 00:08:45.500] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[30Sep2025 00:08:45.500] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[30Sep2025 00:08:45.642] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[30Sep2025 00:08:45.642] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 2
+[30Sep2025 00:08:45.642] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[30Sep2025 00:08:45.643] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 1141MB / C: 3297MB / Diff: +2156MB
+[30Sep2025 00:08:45.643] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[30Sep2025 00:08:45.643] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[30Sep2025 00:08:45.643] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 8488
+[30Sep2025 00:08:45.643] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[30Sep2025 00:08:45.643] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[30Sep2025 00:18:45.548] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[30Sep2025 00:18:45.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[30Sep2025 00:18:45.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[30Sep2025 00:18:45.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 2
+[30Sep2025 00:18:45.549] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[30Sep2025 00:18:45.550] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 1141MB / C: 3297MB / Diff: +2156MB
+[30Sep2025 00:18:45.550] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[30Sep2025 00:18:45.550] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[30Sep2025 00:18:45.550] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 8488
+[30Sep2025 00:18:45.550] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[30Sep2025 00:18:45.551] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[30Sep2025 00:28:45.598] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[30Sep2025 00:28:45.599] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[30Sep2025 00:28:45.599] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[30Sep2025 00:28:45.600] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 2
+[30Sep2025 00:28:45.600] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[30Sep2025 00:28:45.600] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 1141MB / C: 3297MB / Diff: +2156MB
+[30Sep2025 00:28:45.600] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[30Sep2025 00:28:45.601] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[30Sep2025 00:28:45.601] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 8488
+[30Sep2025 00:28:45.601] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[30Sep2025 00:28:45.601] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[30Sep2025 00:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[30Sep2025 00:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[30Sep2025 00:34:29.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Sep2025 00:34:29.800] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutdown Complete
+[30Sep2025 00:34:29.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Sep2025 00:34:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Sep2025 00:34:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Sep2025 00:34:29.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Sep2025 00:34:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[30Sep2025 00:34:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[30Sep2025 00:34:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[30Sep2025 00:34:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[30Sep2025 00:34:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Sep2025 00:34:29.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[30Sep2025 00:34:29.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[30Sep2025 00:34:29.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[30Sep2025 00:34:29.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[30Sep2025 00:34:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[30Sep2025 00:34:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[30Sep2025 00:34:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[30Sep2025 00:34:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Sep2025 00:34:29.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[30Sep2025 00:34:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Sep2025 00:34:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[30Sep2025 00:34:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[30Sep2025 00:34:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[30Sep2025 00:34:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[30Sep2025 00:34:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Sep2025 00:34:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[30Sep2025 00:34:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Sep2025 00:34:30.204] [Server thread/WARN] [dev.uncandango.alltheleaks.AllTheLeaks/]: Tried to run explicit GC but it was disabled.
